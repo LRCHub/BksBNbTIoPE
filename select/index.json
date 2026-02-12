@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Still With You",
+  "base_artist": "정국 (Jung Kook)",
+  "createdAt": "2026-02-12T16:42:35.967529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "BF",
+      "has_synced": false,
+      "path": "select/01_Still_With_You_BF.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "Eric Benét",
+      "has_synced": true,
+      "path": "select/02_Still_With_You_Eric_Benét.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/03_Still_With_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "Jungkook",
+      "has_synced": true,
+      "path": "select/04_Still_With_You_Jungkook.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "FTISLAND",
+      "has_synced": false,
+      "path": "select/05_Still_With_You_FTISLAND.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Still with you",
+      "artist": "UP10TION",
+      "has_synced": true,
+      "path": "select/06_Still_with_you_UP10TION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Still With You (Slowed Reverb) - Remix",
+      "artist": "DJ Fronteo",
+      "has_synced": true,
+      "path": "select/07_Still_With_You_(Slowed_Reverb)_-_Remix_DJ_Fronteo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Still With You (Slowed Reverb) (Remix)",
+      "artist": "DJ Fronteo",
+      "has_synced": true,
+      "path": "select/08_Still_With_You_(Slowed_Reverb)_(Remix)_DJ_Fronteo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "Song • Jung Kook",
+      "has_synced": true,
+      "path": "select/09_Still_With_You_Song_•_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "Jung Kook",
+      "has_synced": true,
+      "path": "select/10_Still_With_You_Jung_Kook.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "JK of BTS",
+      "has_synced": true,
+      "path": "select/11_Still_With_You_JK_of_BTS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Still With You",
+      "artist": "Jung Kook - Topic",
+      "has_synced": true,
+      "path": "select/12_Still_With_You_Jung_Kook_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Still With Me (Jermiside",
+      "artist": "Cunninlynguists & Jermiside feat. Deacon the Villain) (Remix) [Deluxe Edition]",
+      "has_synced": false,
+      "path": "select/13_Still_With_Me_(Jermiside_Cunninlynguists_&_Jermiside_feat._Deacon_the_Villain)_(Remix)_[Deluxe_Edition].txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Still With Me (Jermiside Feat. Deacon The Villain) (Remix)",
+      "artist": "Cunninlynguists",
+      "has_synced": false,
+      "path": "select/14_Still_With_Me_(Jermiside_Feat._Deacon_The_Villain)_(Remix)_Cunninlynguists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Can't Believe You're Still With Her",
+      "artist": "Spin Doctors",
+      "has_synced": false,
+      "path": "select/15_I_Can't_Believe_You're_Still_With_Her_Spin_Doctors.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Still with Me - Disco Citizens Mix",
+      "artist": "Chicane feat. Bo Bruce",
+      "has_synced": true,
+      "path": "select/16_Still_with_Me_-_Disco_Citizens_Mix_Chicane_feat._Bo_Bruce.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Still With Me (Disco Citizens Mix)",
+      "artist": "Chicane feat. Bo Bruce",
+      "has_synced": true,
+      "path": "select/17_Still_With_Me_(Disco_Citizens_Mix)_Chicane_feat._Bo_Bruce.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Still (With The Commodores)",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/18_Still_(With_The_Commodores)_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Still With Me - Seven Lions Remix",
+      "artist": "Tritonal feat. Cristina Soto",
+      "has_synced": true,
+      "path": "select/19_Still_With_Me_-_Seven_Lions_Remix_Tritonal_feat._Cristina_Soto.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Still With Me - Seven Lions Re",
+      "artist": "Tritonal / Cristina Soto",
+      "has_synced": true,
+      "path": "select/20_Still_With_Me_-_Seven_Lions_Re_Tritonal___Cristina_Soto.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Still With Me",
+      "artist": "Tritonal feat. Crisitna Soto",
+      "has_synced": false,
+      "path": "select/21_Still_With_Me_Tritonal_feat._Crisitna_Soto.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Still With Me",
+      "artist": "Tritonal",
+      "has_synced": false,
+      "path": "select/22_Still_With_Me_Tritonal.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Still With Me (club mix edit)",
+      "artist": "Tritonal feat. Cristina Soto",
+      "has_synced": false,
+      "path": "select/23_Still_With_Me_(club_mix_edit)_Tritonal_feat._Cristina_Soto.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Still With Me",
+      "artist": "Jukebox the Ghost",
+      "has_synced": false,
+      "path": "select/24_Still_With_Me_Jukebox_the_Ghost.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Still with me (To.Winxy)",
+      "artist": "PIXY",
+      "has_synced": true,
+      "path": "select/25_Still_with_me_(To.Winxy)_PIXY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Still With You",
+      "artist": "JUNGKOOK",
+      "has_synced": false,
+      "path": "select/pl_01_Still_With_You_JUNGKOOK.txt"
+    }
+  ]
+}
